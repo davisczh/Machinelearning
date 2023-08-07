@@ -1,5 +1,5 @@
-Plato O
-degustación O
+Plato B-negative
+degustación I-negative
 : O
 un O
 poco O
@@ -11,7 +11,7 @@ pero O
 bien O
 cocinado O
 . O
- O
+ 
 restaurante O
 excelente O
 con O
@@ -20,7 +20,7 @@ de O
 alta O
 calidad O
 . O
- O
+ 
 Las O
 posibilidades O
 en O
@@ -53,7 +53,7 @@ para O
 el O
 segundo O
 . O
- B-positive
+ 
 No I-positive
 perderse I-positive
 el O
@@ -61,12 +61,12 @@ sorbete B-positive
 de I-positive
 mojito I-positive
 . I-positive
- I-positive
+ 
 para O
 mi O
 perfecto O
 ! O
- B-neutral
+ 
 Devolucion I-neutral
 a I-neutral
 cocina O
@@ -81,7 +81,7 @@ cuenta O
 y O
 adios O
 . O
- O
+ 
 Así O
 como O
 el O
@@ -96,7 +96,7 @@ de O
 bote O
 " O
 . O
- B-neutral
+ 
 Destacar I-neutral
 los O
 arroces B-positive
@@ -112,18 +112,18 @@ al I-positive
 horno I-positive
 y O
 los O
-platos O
-de O
-" O
-picoteo O
-" O
+platos B-negative
+de I-negative
+" I-negative
+picoteo I-negative
+" I-negative
 y O
 los O
 pescados O
 en O
 general O
 . O
- O
+ 
 Somos O
 clientes O
 asiduos O
@@ -134,7 +134,7 @@ lo O
 bordais O
 GRACIAS O
 . O
- O
+ 
 Pedimos O
 un O
 menú O
@@ -143,7 +143,7 @@ y O
 todo O
 buenísimo O
 . O
- O
+ 
 Estaría O
 bien O
 mejorar O
@@ -152,12 +152,12 @@ calidad O
 del O
 vino O
 . O
- O
+ 
 Sin O
 duda O
 repetiremos O
 . O
- O
+ 
 Estuve O
 este O
 sabado O
@@ -182,12 +182,12 @@ supuesto O
 la O
 comida O
 . O
- O
+ 
 A O
 mejorar O
 baños O
 . O
- O
+ 
 Nosotros O
 ya O
 ibamos O
@@ -207,7 +207,7 @@ había O
 poquita O
 variedad O
 ... O
- O
+ 
 Tal O
 vez O
 la O
@@ -249,7 +249,7 @@ lleno O
 ya O
 ) O
 . O
- O
+ 
 Menú O
 calçotada O
 muy O
@@ -262,7 +262,7 @@ buena O
 relación O
 calidad-precio-calidad O
 . O
- O
+ 
 Interesante O
 restaurante O
 en O
@@ -299,11 +299,11 @@ próximas O
 entre O
 sí O
 . O
- O
+ 
 Un O
 saludo O
 . O
- O
+ 
 Servicio O
 - O
 4 O
@@ -325,7 +325,7 @@ servir O
 la O
 comida O
 . O
- O
+ 
 Muy O
 bueno O
 , O
@@ -337,13 +337,13 @@ justifican O
 su O
 precio O
 . O
- O
+ 
 La O
 decoración O
 bastante O
 conseguida O
 . O
- O
+ 
 Para O
 finalizar O
 con O
@@ -395,7 +395,7 @@ como O
 nosotros O
 ) O
 . O
- O
+ 
 El O
 trato O
 amable O
@@ -405,7 +405,7 @@ el O
 servicio O
 rápido O
 . O
- O
+ 
 Al O
 principio O
 nos O
@@ -426,7 +426,7 @@ mesa O
 del O
 restaurante O
 . O
- O
+ 
 Hasta O
 las O
 16h15 O
@@ -436,11 +436,11 @@ adjudicaron O
 la O
 mesa O
 . O
- O
+ 
 Situación O
 excelente O
 . O
- O
+ 
 Estupendo O
 el O
 arroz O
@@ -452,7 +452,7 @@ muy O
 buen O
 trato O
 . O
- O
+ 
 Conjuga O
 perfectamente O
 calidad O
@@ -461,12 +461,12 @@ servicio O
 y O
 ambiente O
 . O
- O
+ 
 <+> O
 personal O
 amable O
 . O
- O
+ 
 Una O
 pena O
 para O
@@ -477,7 +477,7 @@ excelentes O
 que O
 hay O
 . O
- O
+ 
 Incluso O
 no O
 entendemos O
@@ -492,7 +492,7 @@ la O
 sufrimos O
 igual O
 . O
- O
+ 
 Es O
 decir O
 , O
@@ -508,7 +508,7 @@ ganas O
 de O
 volver O
 . O
- O
+ 
 Entre O
 otras O
 cosas O
@@ -531,7 +531,7 @@ mientras O
 está O
 comiendo O
 . O
- O
+ 
 Las O
 croquetas O
 literalmente O
@@ -565,7 +565,7 @@ sentó O
 a O
 conversar O
 . O
- O
+ 
 Solo O
 con O
 el O
@@ -586,7 +586,7 @@ servir O
 los O
 segundos O
 ... O
- O
+ 
 Arróz O
 muy O
 bueno O
@@ -594,18 +594,18 @@ y O
 buena O
 cantidad O
 . O
- O
+ 
 El O
 ambiente O
 muy O
 acogedor O
 . O
- O
+ 
 Es O
 altamente O
 recomendable O
 . O
- O
+ 
 Estuve O
 el O
 Sábado O
@@ -629,7 +629,7 @@ divertida O
 y O
 original O
 . O
- O
+ 
 Buena O
 comida O
 , O
@@ -639,7 +639,7 @@ y O
 sitio O
 precioso O
 . O
- O
+ 
 JAJAJAJA O
 , O
 me O
@@ -649,7 +649,7 @@ de O
 los O
 tenedores O
 . O
- O
+ 
 La O
 verdad O
 es O
@@ -670,7 +670,7 @@ bien O
 y O
 bastante O
 . O
- O
+ 
 Hoy O
 hemos O
 comido O
@@ -678,7 +678,7 @@ en O
 el O
 Barceloneta O
 . O
- O
+ 
 Como O
 siempre O
 , O
@@ -691,7 +691,7 @@ y O
 excelente O
 comida O
 . O
- O
+ 
 La O
 comida O
 y O
@@ -700,7 +700,7 @@ servicio O
 fueron O
 correctos O
 . O
- O
+ 
 Otra O
 cosa O
 sería O
@@ -708,7 +708,7 @@ censura O
 y O
 coacción O
 . O
- O
+ 
 Si O
 no O
 te O
@@ -739,7 +739,7 @@ le O
 faltan O
 cosas O
 . O
- O
+ 
 [ O
 … O
 ] O
@@ -762,7 +762,7 @@ el O
 [ O
 … O
 ] O
- O
+ 
 Hay O
 un O
 listado O
@@ -784,7 +784,7 @@ como O
 la O
 carta O
 . O
- O
+ 
 Sólo O
 pedimos O
 dos O
@@ -802,7 +802,7 @@ de O
 la O
 cena O
 : O
- O
+ 
 No O
 volveremos O
 , O
@@ -816,7 +816,7 @@ de O
 Mar O
 ” O
 . O
- O
+ 
 Todo O
 fue O
 tal O
@@ -858,7 +858,7 @@ todos O
 queden O
 contentos O
 . O
- O
+ 
 Sino O
 os O
 aseguro O
@@ -873,14 +873,14 @@ recuerdo O
 muy O
 bien O
 . O
- O
+ 
 Falta O
 algun O
 menu O
 de O
 pescado O
 . O
- O
+ 
 El O
 tomate O
 en O
@@ -897,11 +897,11 @@ un O
 tanto O
 dura O
 . O
- O
+ 
 Lugar O
 muy O
 agradable O
- O
+ 
 Es O
 una O
 pena O
@@ -912,7 +912,7 @@ lo O
 mejorcito O
 de O
 Barcelona O
- O
+ 
 El O
 resto O
 , O
@@ -930,7 +930,7 @@ que O
 nos O
 cobraron O
 . O
- O
+ 
 Tomamos O
 el O
 menú O
@@ -951,7 +951,7 @@ incluida O
 sin O
 límite O
 . O
- O
+ 
 La O
 comida O
 deliciosa O
@@ -961,14 +961,14 @@ servicio O
 muy O
 bueno O
 . O
- O
+ 
 Gema O
- O
+ 
 <+> O
 Nunca O
 falla O
 . O
- O
+ 
 <-> O
 Ya O
 hace O
@@ -982,7 +982,7 @@ en O
 este O
 restaurante O
 . O
- O
+ 
 mejorables O
 las O
 costillas O
@@ -997,7 +997,7 @@ se O
 incluyen O
 chuletas O
 . O
- O
+ 
 Por O
 último O
 , O
@@ -1036,7 +1036,7 @@ verlo O
 con O
 agrado O
 . O
- O
+ 
 Pedro O
 : O
 Me O
@@ -1079,7 +1079,7 @@ de O
 los O
 Catalanes O
 . O
- O
+ 
 En O
 cuanto O
 a O
@@ -1093,7 +1093,7 @@ exclusivo O
 ni O
 sorprendente O
 . O
- O
+ 
 Bonito O
 restaurante O
 , O
@@ -1102,13 +1102,13 @@ ambiente O
 y O
 servicio O
 . O
- O
+ 
 Servicio O
 atento O
 al O
 cliente O
 . O
- O
+ 
 PD O
 : O
 No O
@@ -1129,10 +1129,10 @@ gustó O
 el O
 nombre O
 . O
- O
+ 
 Una O
 pena O
- O
+ 
 Totalmente O
 recomendable O
 para O
@@ -1144,7 +1144,7 @@ familia O
 amigos O
 y O
 pareja O
- O
+ 
 De O
 hecho O
 tuve O
@@ -1160,15 +1160,15 @@ en O
 el O
 móvil O
 . O
- O
+ 
 Fantástica O
 elección O
 . O
- O
+ 
 ¿ O
 Minimalista O
 ? O
- O
+ 
 Me O
 encanta O
 llevar O
@@ -1189,7 +1189,7 @@ de O
 la O
 gente O
 . O
- O
+ 
 Nos O
 dijo O
 que O
@@ -1203,17 +1203,17 @@ gracias O
 de O
 nuevo O
 . O
- O
+ 
 Casi O
 como O
 en O
 Argentina O
 . O
- O
+ 
 Es O
 eso O
 ? O
- O
+ 
 peros O
 : O
 decoracion O
@@ -1263,11 +1263,11 @@ grafitis O
 no O
 repetire O
 . O
- O
+ 
 Servicio O
 atento O
 . O
- O
+ 
 Son O
 muchos O
 , O
@@ -1345,11 +1345,11 @@ tienen O
 buenas O
 mesas O
 . O
- O
+ 
 Excelente O
 comida O
 . O
- O
+ 
 Anonadado O
 me O
 hallo O
@@ -1374,7 +1374,7 @@ un O
 gentilicio O
 ? O
 . O
- O
+ 
 El O
 servicio O
 muy O
@@ -1403,7 +1403,7 @@ y O
 casi O
 incomibles O
 . O
- O
+ 
 Todo O
 correcto O
 para O
@@ -1414,7 +1414,7 @@ gente O
 que O
 había O
 . O
- O
+ 
 En O
 cuanto O
 a O
@@ -1464,7 +1464,7 @@ criterios O
 es O
 Ud O
 . O
- O
+ 
 Pues O
 bien O
 , O
@@ -1487,7 +1487,7 @@ para O
 nosotros O
 solos O
 ! O
- O
+ 
 Si O
 sólo O
 te O
@@ -1502,7 +1502,7 @@ stock O
 mal O
 empezamos O
 . O
- O
+ 
 Respecto O
 al O
 precio O
@@ -1538,7 +1538,7 @@ resto O
 de O
 españa O
 . O
- O
+ 
 Enhorabuena O
 teneis O
 un O
@@ -1550,7 +1550,7 @@ cenado O
 de O
 maravilla O
 . O
- O
+ 
 Excepto O
 el O
 ambientador O
@@ -1558,7 +1558,7 @@ utilizado O
 en O
 el O
 local O
- O
+ 
 Hay O
 una O
 puntualización O
@@ -1589,39 +1589,39 @@ de O
 8 O
 personas O
 . O
- O
+ 
 Relacion O
 calidad O
 precii O
 muy O
 buena O
 . O
- O
+ 
 Todo O
 muy O
 bien O
 . O
- O
+ 
 Servicio O
 atento O
 y O
 rápido O
 . O
- O
+ 
 Un O
 10 O
 en O
 comida O
 mediterranea O
 ! O
- O
+ 
 Buen O
 servicio O
 y O
 buen O
 ambiente O
 . O
- O
+ 
 La O
 cena O
 normal O
@@ -1632,7 +1632,7 @@ mejor O
 que O
 otros O
 . O
- O
+ 
 Se O
 acerca O
 más O
@@ -1645,7 +1645,7 @@ los O
 treinta O
 euros O
 . O
- O
+ 
 No O
 habiamos O
 terminado O
@@ -1664,7 +1664,7 @@ poner O
 el O
 segundo O
 . O
- O
+ 
 Sin O
 duda O
 , O
@@ -1681,7 +1681,7 @@ alabada O
 por O
 algunos O
 . O
- O
+ 
 Creo O
 que O
 el O
@@ -1690,7 +1690,7 @@ lo O
 indica O
 todo O
 . O
- O
+ 
 tremenda O
 amabilidad O
 , O
@@ -1698,7 +1698,7 @@ es O
 un O
 gustazo O
 ! O
- O
+ 
 solo O
 dijo O
 que O
@@ -1740,12 +1740,12 @@ que O
 no O
 cambie O
 . O
- O
+ 
 Un O
 valor O
 seguro O
 . O
- O
+ 
 Buen O
 servicio O
 , O
@@ -1756,12 +1756,12 @@ a O
 precio O
 medio O
 . O
- O
+ 
 Gazpacho O
 de O
 Zaragoza O
 . O
- O
+ 
 [ O
 … O
 ] O
@@ -1787,7 +1787,7 @@ desastroso O
 no O
 volveré O
 . O
- O
+ 
 Y O
 para O
 finalizar O
@@ -1814,7 +1814,7 @@ y O
 mala O
 comida O
 . O
- O
+ 
 Todo O
 muy O
 bueno O
@@ -1823,7 +1823,7 @@ repetiria O
 y O
 recomendaria O
 . O
- O
+ 
 Ahí O
 se O
 quedaron O
@@ -1885,7 +1885,7 @@ que O
 nos O
 ofrecieron O
 . O
- O
+ 
 Excelente O
 materia O
 prima O
@@ -1894,7 +1894,7 @@ muy O
 buena O
 elaboración O
 . O
- O
+ 
 No O
 cogimos O
 menú O
@@ -1903,7 +1903,7 @@ cogimos O
 platos O
 sueltos O
 . O
- O
+ 
 Ya O
 hemos O
 repetido O
@@ -1912,7 +1912,7 @@ volveremos O
 a O
 hacerlo O
 . O
- O
+ 
 De O
 la O
 comida O
@@ -1947,7 +1947,7 @@ precio O
 totalmente O
 desequilibrada O
 . O
- O
+ 
 Coincido O
 con O
 los O
@@ -1956,7 +1956,7 @@ de O
 la O
 ficha O
 . O
- O
+ 
 La O
 Tarta O
 de O
@@ -1964,7 +1964,7 @@ manzana O
 , O
 hummmm O
 . O
- O
+ 
 Aunque O
 lo O
 que O
@@ -1979,7 +1979,7 @@ de O
 los O
 platos O
 . O
- O
+ 
 Por O
 lo O
 demás O
@@ -2002,18 +2002,18 @@ también O
 para O
 niños O
 . O
- O
+ 
 Mejor O
 carne O
 de O
 BCN O
 . O
- O
+ 
 El O
 servicio O
 excelente O
 . O
- O
+ 
 Perfecta O
 relación O
 calidad-precio O
@@ -2025,7 +2025,7 @@ y O
 comida O
 exquisita O
 . O
- O
+ 
 Se O
 lo O
 recomiendo O
@@ -2069,18 +2069,18 @@ con O
 mucha O
 calidad O
 . O
- O
+ 
 Amo O
 el O
 pescado O
 en O
 Salamanca O
 ! O
- O
+ 
 - O
 Pichón O
 . O
- O
+ 
 Camareros O
 con O
 poca O
@@ -2093,7 +2093,7 @@ el O
 precio O
 pagado O
 . O
- O
+ 
 Siempre O
 vamos O
 cuando O
@@ -2117,10 +2117,10 @@ vale O
 la O
 pena O
 . O
- O
+ 
 Gracias O
 . O
- O
+ 
 Elegimos O
 un O
 menú O
@@ -2155,18 +2155,18 @@ chorizo O
 ! O
 ) O
 . O
- O
+ 
 Calidad O
 precio O
 Exelente O
 . O
- O
+ 
 Excelente O
 , O
 como O
 siempre O
 . O
- O
+ 
 Cenar O
 en O
 la O
@@ -2197,10 +2197,10 @@ vale O
 la O
 pena O
 . O
- O
+ 
 Para O
 repetir O
- O
+ 
 Un O
 último O
 comentario O
@@ -2286,7 +2286,7 @@ aragonés O
 español O
 ) O
 . O
- O
+ 
 Supongo O
 que O
 cortaron O
@@ -2302,7 +2302,7 @@ cortaron O
 el O
 ajo O
 . O
- O
+ 
 La O
 comida O
 fatal O
@@ -2312,7 +2312,7 @@ colmo O
 el O
 precio O
 . O
- O
+ 
 Francamente O
 , O
 no O
@@ -2321,7 +2321,7 @@ gustó O
 el O
 trato O
 . O
- O
+ 
 Vamos O
 como O
 en O
@@ -2331,7 +2331,7 @@ salir O
 del O
 paso O
 . O
- O
+ 
 No O
 obstante O
 buena O
@@ -2339,7 +2339,7 @@ relación O
 calidad O
 precio O
 . O
- O
+ 
 pero O
 la O
 experiencia O
@@ -2349,7 +2349,7 @@ para O
 conocer O
 restaurantes O
 . O
- O
+ 
 En O
 cuanto O
 a O
@@ -2367,7 +2367,7 @@ como O
 sus O
 postres O
 . O
- O
+ 
 La O
 relación O
 calidad O
@@ -2376,7 +2376,7 @@ es O
 muy O
 buena O
 . O
- O
+ 
 el O
 servicio O
 muy O
@@ -2398,7 +2398,7 @@ gusto O
 era O
 amargo O
 . O
- O
+ 
 Buena O
 localización O
 en O
@@ -2411,7 +2411,7 @@ delant O
 de O
 mar O
 . O
- O
+ 
 La O
 calidad O
 de O
@@ -2427,7 +2427,7 @@ excelente O
 servicio O
 recibido O
 . O
- O
+ 
 Servicio O
 impecable O
 y O
@@ -2436,7 +2436,7 @@ come O
 de O
 maravilla O
 ! O
- O
+ 
 comimos O
 unos O
 generosos O
@@ -2464,7 +2464,7 @@ andaluza O
 bastante O
 buenos O
 . O
- O
+ 
 Entrada O
 algo O
 desordenada O
@@ -2483,7 +2483,7 @@ de O
 sala O
 molesto O
 . O
- O
+ 
 Sábado O
 por O
 la O
@@ -2544,7 +2544,7 @@ en O
 este O
 ultimo O
 . O
- O
+ 
 Enhorabuena O
 ! O
 ! O
@@ -2555,7 +2555,7 @@ lo O
 has O
 entendido O
 . O
- O
+ 
 Ya O
 habiamos O
 estado O
@@ -2567,7 +2567,7 @@ la O
 calle O
 muntaner O
 . O
- O
+ 
 Un O
 servicio O
 y O
@@ -2577,13 +2577,13 @@ más O
 que O
 correcto O
 . O
- O
+ 
 La O
 carne O
 bién O
 también O
 . O
- O
+ 
 - O
 LA O
 CARTA O
@@ -2612,7 +2612,7 @@ carta O
 muy O
 acertada O
 . O
- O
+ 
 La O
 educacion O
 del O
@@ -2660,13 +2660,13 @@ escuchan O
 sus O
 gritos O
 . O
- O
+ 
 Comida O
 y O
 vistas O
 excepcionale O
 . O
- O
+ 
 veo O
 que O
 las O
@@ -2683,11 +2683,11 @@ no O
 me O
 gusto O
 . O
- O
+ 
 Muy O
 recomendable O
 . O
- O
+ 
 Me O
 parece O
 un O
@@ -2707,7 +2707,7 @@ dignos O
 de O
 admirar O
 . O
- O
+ 
 Luces O
 y O
 sombras O
@@ -2719,7 +2719,7 @@ visita O
 al O
 Meccano O
 . O
- O
+ 
 Y O
 la O
 verdad O
@@ -2728,7 +2728,7 @@ lo O
 pasamos O
 estupendo O
 . O
- O
+ 
 Si O
 tienes O
 un O
@@ -2741,10 +2741,10 @@ actuar O
 en O
 consecuencia O
 . O
- O
+ 
 Repetiremos O
 . O
- O
+ 
 Íbamos O
 ya O
 con O
@@ -2760,7 +2760,7 @@ así O
 lo O
 hicimos O
 . O
- O
+ 
 Caro O
 por O
 lo O
@@ -2776,7 +2776,7 @@ y O
 bastante O
 ruido O
 . O
- O
+ 
 La O
 comida O
 y O
@@ -2790,7 +2790,7 @@ precio O
 mejor O
 todavía O
 . O
- O
+ 
 Las O
 ortiguillas O
 no O
@@ -2882,7 +2882,7 @@ de O
 sus O
 compañeras O
 . O
- O
+ 
 Pero O
 también O
 creo O
@@ -2904,7 +2904,7 @@ también O
 se O
 pueden O
 equivocar.Zaragozana O
- O
+ 
 Me O
 ha O
 causado O
@@ -2928,10 +2928,10 @@ de O
 su O
 personal O
 . O
- O
+ 
 Excelente O
 ! O
- O
+ 
 Elegimos O
 el O
 menú O
@@ -2943,7 +2943,7 @@ por O
 cabeza O
 ) O
 . O
- O
+ 
 Respecto O
 al O
 servicio O
@@ -2991,13 +2991,13 @@ un O
 sitio O
 especial O
 . O
- O
+ 
 Ambiente O
 cálido O
 y O
 agradable O
 . O
- O
+ 
 Se O
 pasa O
 un O
@@ -3008,7 +3008,7 @@ en O
 este O
 restaurante O
 . O
- O
+ 
 Y O
 el O
 menú O
@@ -3072,7 +3072,7 @@ vuelva O
 para O
 comprobarlo O
 . O
- O
+ 
 Nos O
 trataron O
 muy O
@@ -3088,14 +3088,14 @@ ronda O
 de O
 copas O
 . O
- O
+ 
 Es O
 un O
 Restaurante O
 muy O
 recomendable O
 . O
- O
+ 
 Excelente O
 carta O
 , O
@@ -3111,11 +3111,11 @@ y O
 servicio O
 atento O
 . O
- O
+ 
 Servicio O
 esmerado O
 . O
- O
+ 
 Éramos O
 9 O
 , O
@@ -3135,19 +3135,19 @@ y O
 cada O
 uno O
 ? O
- O
+ 
 se O
 esmeran O
 en O
 hacerlo O
 bien O
- O
+ 
 Escriba O
 aquí O
 su O
 comentario O
 … O
- O
+ 
 Mi O
 acompañante O
 una O
@@ -3180,7 +3180,7 @@ de O
 comer O
 enseguida O
 . O
- O
+ 
 Despues O
 nos O
 pusieron O
@@ -3198,7 +3198,7 @@ el O
 peor O
 plato O
 . O
- O
+ 
 Joer O
 como O
 para O
@@ -3228,7 +3228,7 @@ calle O
 a O
 buscarme O
 . O
- O
+ 
 Primer O
 comida O
 de O
@@ -3270,7 +3270,7 @@ en O
 la O
 mesa O
 . O
- O
+ 
 Repito O
 cada O
 vez O
@@ -3285,17 +3285,17 @@ con O
 la O
 empresa O
 . O
- O
+ 
 Ayer O
 estuvimos O
 cenando O
 en O
 Colette O
 . O
- O
+ 
 Rapidez O
 . O
- O
+ 
 por O
 eso O
 regresamos O
@@ -3318,7 +3318,7 @@ A O
 / O
 t O
 . O
- O
+ 
 La O
 comida O
 insuperable O
@@ -3334,10 +3334,10 @@ original O
 y O
 creativa O
 . O
- O
+ 
 Pésimo O
 . O
- O
+ 
 Volveremos O
 sin O
 lugar O
@@ -3355,7 +3355,7 @@ Enhorabuena O
 seguid O
 así O
 ! O
- O
+ 
 La O
 comida O
 bastante O
@@ -3395,7 +3395,7 @@ menos O
 servicios O
 ) O
 . O
- O
+ 
 Sí O
 es O
 cierto O
@@ -3415,12 +3415,12 @@ carta O
 de O
 vinos O
 . O
- O
+ 
 Realmente O
 100 O
 % O
 recomendable O
- O
+ 
 Al O
 final O
 pagamos O
@@ -3491,17 +3491,17 @@ el O
 menú O
 cerrado O
 . O
- O
+ 
 Obvio O
 . O
- O
+ 
 una O
 persona O
 cabal O
 y O
 honesta O
 . O
- O
+ 
 Un O
 sito O
 ideal O
@@ -3511,7 +3511,7 @@ comida O
 de O
 negocios O
 . O
- O
+ 
 La O
 comida O
 siempre O
@@ -3543,7 +3543,7 @@ siempre O
 slago O
 contenta O
 . O
- O
+ 
 El O
 producto O
 de O
@@ -3557,13 +3557,13 @@ el O
 servicio O
 impecable O
 . O
- O
+ 
 Buena O
 cara O
 de O
 vinos O
 . O
- O
+ 
 - O
 Solomillo O
 con O
@@ -3586,7 +3586,7 @@ cosa O
 poco O
 común O
 . O
- O
+ 
 Comida O
 buena O
 , O
@@ -3599,7 +3599,7 @@ al O
 cliente O
 excelente O
 . O
- O
+ 
 Y O
 si O
 bien O
@@ -3638,7 +3638,7 @@ raciones O
 era O
 justita O
 . O
- O
+ 
 restaurante O
 de O
 lujo O
@@ -3664,7 +3664,7 @@ de O
 alguien O
 especial O
 . O
- O
+ 
 No O
 son O
 platos O
@@ -3695,7 +3695,7 @@ y O
 estaban O
 bien O
 . O
- O
+ 
 En O
 total O
 , O
@@ -3705,7 +3705,7 @@ para O
 seis O
 personas O
 . O
- O
+ 
 Tardaron O
 mucho O
 , O
@@ -3716,7 +3716,7 @@ comida O
 sin O
 gracia O
 . O
- O
+ 
 La O
 comida O
 y O
@@ -3731,7 +3731,7 @@ es O
 muy O
 lento O
 . O
- O
+ 
 muy O
 bien O
 cortado O
@@ -3742,18 +3742,18 @@ de O
 buena O
 calidad O
 . O
- O
+ 
 Luego O
 Salomillo O
 . O
- O
+ 
 Éramos O
 una O
 familia O
 celebrando O
 cumpleaños O
 . O
- O
+ 
 El O
 sitio O
 no O
@@ -3782,7 +3782,7 @@ les O
 hace O
 falta O
 . O
- O
+ 
 La O
 verdad O
 comimos O
@@ -3791,7 +3791,7 @@ bien O
 , O
 disfrutamos O
 . O
- O
+ 
 No O
 le O
 resultaba O
@@ -3810,7 +3810,7 @@ directamente O
 con O
 ellos O
 . O
- O
+ 
 Hago O
 saber O
 que O
@@ -3822,13 +3822,13 @@ ver O
 con O
 sus O
 opiniones O
- O
+ 
 Excelente O
 el O
 circuito O
 termal O
 . O
- O
+ 
 - O
 Jarrete O
 a O
@@ -3841,10 +3841,10 @@ y O
 puré O
 trufado O
 . O
- O
+ 
 muy O
 recomendable O
- O
+ 
 Comida O
 casera O
 , O
@@ -3854,7 +3854,7 @@ como O
 en O
 familia O
 . O
- O
+ 
 Fuimos O
 recomendados O
 a O
@@ -3897,7 +3897,7 @@ para O
 el O
 precio O
 . O
- O
+ 
 Yo O
 pedí O
 una O
@@ -3917,12 +3917,12 @@ muy O
 buenas O
 vistas O
 . O
- O
+ 
 Éramos O
 3 O
 adultos O
 . O
- O
+ 
 Personal O
 de O
 sala O
@@ -3936,14 +3936,14 @@ y O
 bien O
 cocinados O
 . O
- O
+ 
 NO O
 LO O
 RECOMIENDO O
 EN O
 ABSOLUTO O
 . O
- O
+ 
 Escriba O
 aquí O
 su O
@@ -3955,7 +3955,7 @@ calidad O
 - O
 precio O
 . O
- O
+ 
 Tranquilo O
 agradable O
 y O
@@ -3976,7 +3976,7 @@ toda O
 la O
 familia O
 . O
- O
+ 
 Tanto O
 el O
 ambiente O
@@ -3999,11 +3999,11 @@ una O
 magnifica O
 sensacion O
 . O
- O
+ 
 Lo O
 recomiendo O
 totalmente O
- O
+ 
 La O
 gente O
 que O
@@ -4018,7 +4018,7 @@ amigos O
 o O
 familiares O
 ? O
- O
+ 
 Agradable O
 ambiente O
 , O
@@ -4029,7 +4029,7 @@ y O
 exquisitos O
 platos O
 . O
- O
+ 
 El O
 servicio O
 más O
@@ -4048,7 +4048,7 @@ bueno O
 el O
 servicio O
 . O
- O
+ 
 Nos O
 sirvieron O
 un O
@@ -4058,7 +4058,7 @@ tostadas O
 con O
 tomate O
 . O
- O
+ 
 Los O
 postres O
 , O
@@ -4070,7 +4070,7 @@ concurso O
 de O
 miniaturas O
 . O
- O
+ 
 Por O
 malo O
 que O
@@ -4081,7 +4081,7 @@ mejor O
 que O
 este O
 . O
- O
+ 
 En O
 lo O
 referente O
@@ -4110,11 +4110,11 @@ referencia O
 de O
 Zaragoza O
 . O
- O
+ 
 Recomendable O
 totalmente O
 . O
- O
+ 
 Debió O
 ser O
 , O
@@ -4133,7 +4133,7 @@ un O
 mal O
 día O
 . O
- O
+ 
 Desconozco O
 de O
 verdad O
@@ -4170,14 +4170,14 @@ amigos O
 pax O
 . O
 ) O
- O
+ 
 Buena O
 relación O
 calidad O
 / O
 precio O
 . O
- O
+ 
 El O
 precio O
 no O
@@ -4199,7 +4199,7 @@ merece O
 la O
 pena O
 . O
- O
+ 
 ¿ O
 Cómo O
 vamos O
@@ -4225,7 +4225,7 @@ este O
 punto O
 fallan O
 . O
- O
+ 
 El O
 arroz O
 caldoso O
@@ -4239,7 +4239,7 @@ un O
 buen O
 arroz O
 . O
- O
+ 
 Tuvieron O
 un O
 detalle O
@@ -4259,7 +4259,7 @@ opción O
 vegetariana O
 ) O
 . O
- O
+ 
 No O
 importaba O
 mucho O
@@ -4287,7 +4287,7 @@ facturó O
 2,50 O
 euros O
 . O
- O
+ 
 No O
 es O
 por O
@@ -4312,12 +4312,12 @@ presunto O
 buen O
 gusto O
 . O
- O
+ 
 el O
 servicio O
 impecable O
 . O
- O
+ 
 Lo O
 han O
 repetido O
@@ -4331,7 +4331,7 @@ es O
 insufrible O
 ! O
 ! O
- O
+ 
 Para O
 mí O
 el O
@@ -4349,7 +4349,7 @@ porque O
 no O
 molestan O
 . O
- O
+ 
 El O
 chocolate O
 de O
@@ -4357,7 +4357,7 @@ los O
 postres O
 exquisito O
 . O
- O
+ 
 No O
 es O
 nada O
@@ -4376,7 +4376,7 @@ con O
 elementos O
 frescos O
 . O
- O
+ 
 Comimos O
 mi O
 marido O
@@ -4420,7 +4420,7 @@ apreciar O
 lo O
 bueno O
 . O
- O
+ 
 Mas O
 que O
 otro O
@@ -4441,15 +4441,15 @@ siempre O
 aciertas O
 ” O
 . O
- O
+ 
 Lugar O
 perfecto O
 . O
- O
+ 
 Muy O
 recomendable O
 . O
- O
+ 
 Como O
 2º O
 plato O
@@ -4471,7 +4471,7 @@ no O
 congeladas O
 ) O
 . O
- O
+ 
 Buen O
 comer O
 y O
@@ -4479,7 +4479,7 @@ muy O
 buen O
 servicio O
 . O
- O
+ 
 he O
 ido O
 varias O
@@ -4515,7 +4515,7 @@ a O
 las O
 reservas O
 . O
- O
+ 
 En O
 la O
 mesa O
@@ -4534,7 +4534,7 @@ a O
 la O
 caleffacción O
 . O
- O
+ 
 Los O
 camareros O
 son O
@@ -4549,7 +4549,7 @@ calçotada O
 es O
 interminable O
 ! O
- O
+ 
 Lo O
 recomiendo O
 , O
@@ -4558,7 +4558,7 @@ les O
 dejara O
 indiferente O
 . O
- O
+ 
 Si O
 tienes O
 cuidado O
@@ -4575,4 +4575,4 @@ dejarte O
 la O
 cartera O
 . O
- O
+ 
